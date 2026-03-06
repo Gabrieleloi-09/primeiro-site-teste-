@@ -3,10 +3,13 @@
 
 ## Informações Gerais
 Coloque aqui os seus dados
-- Nome: Gustavo Fernandes Vieira
-- Matricula: 1419487
+- Nome: Gabriel Eloi Gomes De Oliveira 
+- Matricula: 926779
 
 ## Tela de inspeção com navegador
+ 
+ <img src="./imagens/Print da tela  resultados da inspeção OPERA .jpeg" alt="100px" img src="./imagens/Print da tela do visual studio code .jpeg" 
+ 
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
 
